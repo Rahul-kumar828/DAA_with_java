@@ -1,2 +1,7 @@
-package Recursing;public class towerOfHonoi {
+package Recursing;
+
+public class towerOfHanoi {
+    public static void main(String[] arg)throws Exception{
+
+    }
 }
